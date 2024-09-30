@@ -60,6 +60,7 @@ with col1:
     st.write("Nama: Wilson Leonardo")
     st.write("Email: wilsonleonardo4002@gmail.com")
     st.write("ID Dicoding: wileo2004")
+    st.write("GitHub: https://github.com/AlicelieseLou/Dicoding_Submission.git")
 
 # Graph column
 with col2:
