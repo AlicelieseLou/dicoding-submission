@@ -4,7 +4,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 # Load the data from dataset.csv to DataFrame Pandas
-main_df = pd.read_csv('main_data.csv')
+main_df = pd.read_csv('dashboard/main_data.csv')
 
 # Create a mapping for seasons to readable labels
 season_mapping = {1: 'Spring', 2: 'Summer', 3: 'Fall', 4: 'Winter'}
