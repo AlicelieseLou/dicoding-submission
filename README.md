@@ -1,5 +1,20 @@
 # Bike Sharing Dataset Analysis Dashboard ✨
 
+This is my final project for the Dicoding Data Analysis course using the Bike Sharing dataset.
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Streamlit
+- Jupyter Notebook
+
+## 📊 Features
+- Data cleaning and wrangling
+- Exploratory Data Analysis (EDA)
+- Interactive dashboard using Streamlit
+
 ## Demo Live
 ```
 https://dicodingsubmission-6zbamrudgnaj6kofktr4dp.streamlit.app/
